@@ -1,4 +1,4 @@
-package nl.hva.fdmci.mad.level4_example1
+package nl.hva.fdmci.mad.level5_example
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

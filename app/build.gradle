@@ -8,7 +8,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "nl.hva.fdmci.mad.level4_example1"
+        applicationId "nl.hva.fdmci.mad.level5_example"
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 1

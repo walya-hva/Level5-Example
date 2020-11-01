@@ -1,4 +1,4 @@
-package nl.hva.fdmci.mad.level4_example1
+package nl.hva.fdmci.mad.level5_example
 
 import org.junit.Test
 
